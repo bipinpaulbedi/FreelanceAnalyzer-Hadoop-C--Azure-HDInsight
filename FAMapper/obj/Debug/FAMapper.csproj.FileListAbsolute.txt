@@ -1,0 +1,5 @@
+D:\FreelanceAnalyzer\FAMapper\bin\Debug\FAMapper.exe.config
+D:\FreelanceAnalyzer\FAMapper\bin\Debug\FAMapper.exe
+D:\FreelanceAnalyzer\FAMapper\bin\Debug\FAMapper.pdb
+D:\FreelanceAnalyzer\FAMapper\obj\Debug\FAMapper.exe
+D:\FreelanceAnalyzer\FAMapper\obj\Debug\FAMapper.pdb

@@ -1,0 +1,5 @@
+D:\FreelanceAnalyzer\FAReducer\bin\Debug\FAReducer.exe.config
+D:\FreelanceAnalyzer\FAReducer\bin\Debug\FAReducer.exe
+D:\FreelanceAnalyzer\FAReducer\bin\Debug\FAReducer.pdb
+D:\FreelanceAnalyzer\FAReducer\obj\Debug\FAReducer.exe
+D:\FreelanceAnalyzer\FAReducer\obj\Debug\FAReducer.pdb
