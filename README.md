@@ -17,7 +17,7 @@ hadoop fs -mkdir /FA/Apps
 5) Copy data - on Haddoop command line  
 hadoop fs -copyFromLocal D:\FSC\*.* \FA\Input  
 
-5) Copy Binary - on Haddoop command line  
+6) Copy Binary - on Haddoop command line  
 hadoop fs -copyFromLocal C:\EXE\FAMapper.exe /FA/Apps/FAMapper.exe  
 hadoop fs -copyFromLocal C:\EXE\FAReducer.exe /FA/Apps/FAReducer.exe  
 
@@ -58,6 +58,6 @@ Wait-AzureHDInsightJob -Credential $creds -job $mrJob -WaitTimeoutInSeconds 3600
 
 ![ScreenShot](https://dl.dropboxusercontent.com/u/686781/Screenshot%20for%20Github/FAH/result.JPG)
 
-Find result at >  
+Find result at > - on Haddoop command line  
 hadoop fs -ls /FA/Output/  
 hadoop fs -cat /FA/Output/part-00000  
