@@ -6,7 +6,7 @@ As per analysis on 0.03% user misunderstands the context and had to correct them
 
 Steps
 
-1) Install HDInsight Emulator
+1) Install HDInsight Emulator  
 2) Install Azure PowerShell
 3) Compile application to generate binaries
 4) Create directories - on Haddoop command line
