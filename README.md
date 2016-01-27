@@ -1,10 +1,7 @@
 # FreelanceAnalyzer-Hadoop-C#-Azure-HDInsight
 Map Reduce Algorithm for Microsoft HDInsight to analyze stack Exchange comments data for certain user behavior.
-
 It will use hadoop streaming api to execute C# map - reduce algo.
-
 The algo analyses the number of times a user apologizes for misunderstanding the question and replying. The comuation is executed on data dum available at https://archive.org/download/stackexchange/freelancing.stackexchange.com.7z
-
 As per analysis on 0.03% user misunderstands the context and had to correct themselves later.
 
 Steps
