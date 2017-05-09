@@ -53,10 +53,9 @@ $mrJob = Start-AzureHDInsightJob -Cluster $clusterName -Credential $creds -JobDe
 Wait-AzureHDInsightJob -Credential $creds -job $mrJob -WaitTimeoutInSeconds 3600  
 *-*-*-*-*  
 
-![ScreenShot](https://dl.dropboxusercontent.com/u/686781/Screenshot%20for%20Github/FAH/Jobs.JPG)
+![jobs](https://cloud.githubusercontent.com/assets/6971858/25850748/bf1d37ea-3506-11e7-9d2b-aeb4bda67f7d.JPG)
+![result](https://cloud.githubusercontent.com/assets/6971858/25850747/bf1c1f90-3506-11e7-9cc2-cbffee6911b6.JPG)
 
-
-![ScreenShot](https://dl.dropboxusercontent.com/u/686781/Screenshot%20for%20Github/FAH/result.JPG)
 
 Find result at > - on Haddoop command line  
 hadoop fs -ls /FA/Output/  
